@@ -13,5 +13,5 @@ def salary(hours, salary_by_hour):
     :param salary_by_hour: зарплата за час
     :return: итоговая стоимость
     """
-    k = 2
+    k = 25
     return hours * salary_by_hour * k
